@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void onClickBtnLegacy(){
+
         btnAceptar1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
